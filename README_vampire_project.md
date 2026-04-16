@@ -3,6 +3,17 @@
 ## Overview
 This project explores a fictional vampire dataset using Python, pandas, and matplotlib. The aim was to practise data cleaning, exploratory analysis, grouping, and visualisation using a theme that is memorable and easy to explain.
 
+## Visualisations
+
+### Average Victims per Month by Region
+![Victims by Region](victims_by_region.png)
+
+### Survival Rate by Weakness
+![Survival by Weakness](survival_by_weakness.png)
+
+### Victims vs Survival
+![Victims vs Survival](victims_vs_survival.png)
+
 ## Dataset
 The dataset includes fictional vampire characters and variables such as:
 - origin region
