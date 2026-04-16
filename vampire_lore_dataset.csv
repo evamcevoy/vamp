@@ -1,0 +1,21 @@
+vampire,origin_region,century,feeding_type,weakness,can_transform,social_class,victims_per_month,survived_story
+Dracula,Romania,19th,blood,sunlight,1,noble,18,0
+Carmilla,Austria,19th,blood,stake,0,aristocratic,11,0
+Lord Ruthven,United Kingdom,19th,blood,religious_symbol,0,elite,9,1
+Varney,United Kingdom,19th,blood,sunlight,0,gentry,14,1
+Nosferatu,Germany,20th,blood,sunlight,0,outsider,16,0
+Selene,Hungary,21st,blood,UV,0,warrior,7,1
+Blade_Vampire_Elite,United States,20th,blood,silver,0,elite,13,0
+Akasha,Egypt,20th,blood,fire,0,royal,21,0
+Lestat,France,18th,blood,sunlight,0,aristocratic,10,1
+Louis,France,18th,blood,sunlight,0,elite,4,1
+Mina_Dracula_Variant,United Kingdom,19th,mixed,religious_symbol,0,middle,2,1
+Petyr,New Zealand,21st,blood,sunlight,1,outsider,8,0
+Viago,New Zealand,21st,blood,sunlight,1,middle,3,1
+Deacon,New Zealand,21st,blood,sunlight,1,middle,5,1
+Eli,Sweden,20th,blood,invitation_rule,0,outsider,6,1
+Count_Orlok_Modern,Germany,21st,blood,sunlight,0,outsider,17,0
+Miriam,Egypt,20th,blood,aging,0,elite,6,1
+Santanico,Mexico,20th,blood,stake,1,performer,12,0
+Jessica,United States,21st,synthetic,silver,0,middle,1,1
+Bill_Compton,United States,21st,synthetic,silver,0,gentry,2,1
